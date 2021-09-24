@@ -1,2 +1,2 @@
-# Python_Dersleri
+## Python 'TR'
 # Python_Dersleri
